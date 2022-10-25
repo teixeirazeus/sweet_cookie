@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/teixeirazeus/sweet_cookie/master/readme_assets/banner.png)
 A sweet way to manage cookies in Flutter web.
 
 ## Installing

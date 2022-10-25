@@ -12,7 +12,7 @@ class SweetCookie {
   /// [key] is the name of the cookie
   /// [value] is the value of the cookie
   /// returns void
-  static void setCookie(String key, String value) {
+  static void set(String key, String value) {
     localStorage[key] = value;
   }
 
@@ -21,7 +21,7 @@ class SweetCookie {
   /// [key] is the name of the cookie
   /// returns the value of the cookie
   /// returns null if the cookie does not exist
-  static String? getCookie(String key) {
+  static String? get(String key) {
     return localStorage[key];
   }
 
@@ -29,14 +29,14 @@ class SweetCookie {
   ///
   /// [key] is the name of the cookie
   /// returns void
-  static void removeCookie(String key) {
+  static void delete(String key) {
     localStorage.remove(key);
   }
 
   /// Delete all cookies
   ///
   /// returns void
-  static void clearCookie() {
+  static void clear() {
     localStorage.clear();
   }
 }

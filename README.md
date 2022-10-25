@@ -1,5 +1,6 @@
 ![banner](https://raw.githubusercontent.com/teixeirazeus/sweet_cookie/master/readme_assets/banner.png)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5f89caaf2416478991edaed690c86ae0)](https://www.codacy.com/gh/teixeirazeus/sweet_cookie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=teixeirazeus/sweet_cookie&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5f89caaf2416478991edaed690c86ae0)](https://www.codacy.com/gh/teixeirazeus/sweet_cookie/dashboard?utm_source=github.com\&utm_medium=referral\&utm_content=teixeirazeus/sweet_cookie\&utm_campaign=Badge_Grade)
+[![License](https://raw.githubusercontent.com/teixeirazeus/sweet_cookie/master/readme_assets/mit.svg)](http://opensource.org/licenses/MIT)
 
 A sweet way to manage cookies in Flutter web.
 
@@ -59,7 +60,6 @@ SweetCookie.clear();
 ## License
 
 Released under the [MIT License](http://opensource.org/licenses/MIT).
-
 
 ## Contributing
 

@@ -26,7 +26,37 @@ A sweet way to manage cookies in Flutter web.
 
 ## Using
 
-Sample
+Save a cookie:
+
+```dart
+SweetCookie.set('name', 'value');
+```
+
+Get a cookie:
+
+```dart
+SweetCookie.get('name');
+```
+
+Delete a cookie:
+
+```dart
+SweetCookie.delete('name');
+```
+
+Delete all cookies:
+
+```dart
+SweetCookie.clear();
+```
+
+## Developer
+
+*   Thiago da Silva Teixeira
+
+## License
+
+Released under the [MIT License](http://opensource.org/licenses/MIT).
 
 
 ## Contributing

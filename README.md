@@ -6,22 +6,13 @@ A sweet way to manage cookies in Flutter web.
 
 ## Installing
 
-1.  Add dependencies to `pubspec.yaml`
-
-    ```yaml
-    dependencies:
-        hequest:
-            git:
-                url: https://github.com/teixeirazeus/sweet_cookie
-    ```
-
-2.  Run pub get.
+1.  Run pub get.
 
     ```shell
-    flutter pub get
+    dart pub add sweet_cookie
     ```
 
-3.  Import package.
+2.  Import package.
 
     ```dart
     import 'package:sweet_cookie/sweet_cookie.dart';

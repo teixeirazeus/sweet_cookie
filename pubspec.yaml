@@ -1,0 +1,12 @@
+name: sweet_cookie
+description: A sweet way to manage cookies in Flutter web.
+version: 0.0.1
+homepage: https://github.com/teixeirazeus/sweet_cookie
+repository: https://github.com/teixeirazeus/sweet_cookie
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  universal_html: ^2.0.8

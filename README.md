@@ -50,7 +50,7 @@ SweetCookie.clear();
 
 ## License
 
-Released under the [MIT License](http://opensource.org/licenses/MIT).
+Released under the MIT License.
 
 ## Contributing
 

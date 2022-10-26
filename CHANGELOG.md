@@ -5,3 +5,8 @@
 ## 0.0.2
 
 *   Fixing README.md.
+
+## 0.0.3
+
+*   Web support only.
+*   Add Exemple.

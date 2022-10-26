@@ -10,3 +10,8 @@
 
 *   Web support only.
 *   Add Exemple.
+
+## 0.0.4
+
+*   Fix web plugin bug.
+*   Better README.md.

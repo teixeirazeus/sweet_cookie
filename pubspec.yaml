@@ -4,16 +4,20 @@ version: 0.0.3
 homepage: https://github.com/teixeirazeus/sweet_cookie
 repository: https://github.com/teixeirazeus/sweet_cookie
 
-flutter:
-  plugin:
-    platforms:
-      web:
-        pluginClass: SweetCookie
-        fileName: sweet_cookie.dart
-
 environment:
   sdk: '>=2.18.2 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
   universal_html: ^2.0.8
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      web:
+        pluginClass: SweetCookie
+        fileName: sweet_cookie.dart

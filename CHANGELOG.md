@@ -15,3 +15,7 @@
 
 *   Fix web plugin bug.
 *   Better README.md.
+
+## 0.0.5
+
+*   Fix web plugin bug.
